@@ -1,72 +1,23 @@
-<head>>
-    <style>
-  
-        body {
-            background-color: white;
-        }
+.jumbotron {
+	background-color: #428bca
+}
 
-        h1, h2 {
-            color: black;
-            text-decoration: underline;
-        }
+.jumbotron h1 {
+	color:white;
+}
 
-        p {
-        }
+p, h1, h4 {
+	font-family: 'Roboto Slab', serif;
+}
 
-        .lineOne {
-            color: red;
-        }
+#funText {
+	color: black;
+	font-size: 24px;
+	font-family: 'Roboto Slab', serif;
+}
 
-        .lineTwo {
-            color: blue;
-        }
-
-        .lineThree {
-            color: green;
-        }
-
-        .lineFour {
-            font-size: 40px;
-        }
-
-        .lineFive {
-            font-size: 12px;
-        }
-
-        .lineSix {
-            text-align: center;
-        }
-
-        .lineSeven {
-            font-weight: bold;
-        }
-
-        .lineEight {
-            font-family: Tahoma;
-        }
-
-        .lineNine {
-            color: orange;
-            font-size: 30px;
-        }
-
-        p {
-
-        }
-
-        .styledFont {
-            color: green;
-            font-size: 18px;
-            font-family: sans-serif;
-        }
-
-        img {
-            
-        }
-
-        #styledImage {
-            border: 10px solid orange;
-            bortder-radius: 4px;
-            padding: 5px;
-        }
-    </style>
+#box {
+	height: 100px;
+	width: 100px;
+	margin:auto;
+}
