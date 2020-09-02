@@ -1,0 +1,72 @@
+<head>>
+    <style>
+  
+        body {
+            background-color: white;
+        }
+
+        h1, h2 {
+            color: black;
+            text-decoration: underline;
+        }
+
+        p {
+        }
+
+        .lineOne {
+            color: red;
+        }
+
+        .lineTwo {
+            color: blue;
+        }
+
+        .lineThree {
+            color: green;
+        }
+
+        .lineFour {
+            font-size: 40px;
+        }
+
+        .lineFive {
+            font-size: 12px;
+        }
+
+        .lineSix {
+            text-align: center;
+        }
+
+        .lineSeven {
+            font-weight: bold;
+        }
+
+        .lineEight {
+            font-family: Tahoma;
+        }
+
+        .lineNine {
+            color: orange;
+            font-size: 30px;
+        }
+
+        p {
+
+        }
+
+        .styledFont {
+            color: green;
+            font-size: 18px;
+            font-family: sans-serif;
+        }
+
+        img {
+            
+        }
+
+        #styledImage {
+            border: 10px solid orange;
+            bortder-radius: 4px;
+            padding: 5px;
+        }
+    </style>
